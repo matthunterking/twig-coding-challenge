@@ -1,0 +1,23 @@
+{
+  "name": "twig-coding-challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for Twig Education",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthunterking/twig-coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthunterking/twig-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/matthunterking/twig-coding-challenge#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
